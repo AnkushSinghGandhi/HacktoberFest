@@ -8,7 +8,7 @@
 
 ## How to contribute
 
-1. Fork the project (any project you can contribute to any of my projects)
+1. Fork the project (you can contribute to any of my projects)
 2. Make any changes in your forked repo.
 3. On this repo, click `Pull Requests` and raise a `Pull Request` selecting your fork on the right drop down
 
