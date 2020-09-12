@@ -3,7 +3,8 @@
 [![More info](https://hacktoberfest.digitalocean.com/og-hf-teaser.png)](https://hacktoberfest.digitalocean.com/)
 
 **Just add your name to the alphabetical list and optionally, a link to your GitHub account**
-**Don't Forget to follow me**
+
+- **Don't Forget to follow me**
 
 ## How to contribute
 
