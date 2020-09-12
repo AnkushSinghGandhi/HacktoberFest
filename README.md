@@ -83,3 +83,4 @@ Questions can be asked by raising an `Issue`.
 ## Hacktoberfest community
 
 - [Ankush Singh Gandhi](https://github.com/ankushsinghgandhi)
+- [Ishan Piplani](https://github.com/ISHANPIPLANI5)
