@@ -85,3 +85,4 @@ Questions can be asked by raising an `Issue`.
 - [Ankush Singh Gandhi](https://github.com/ankushsinghgandhi)
 - [Ishan Piplani](https://github.com/ISHANPIPLANI5)
 - [Ekta Sharma](https://github.com/ektasharma28)
+- [Anjali Chauhan)(https://github.com/anjali1102)
