@@ -114,7 +114,7 @@ Questions can be asked by raising an `Issue`.
 - [Anjali Chauhan](https://github.com/anjali1102)
 - [Bharat Sharma](https://github.com/heybharatt)
 - [Wali Ullah](https://github.com/SABERGLOW)
-
+- [Meenu Soni](https://github.com/heymeenu)
 
 
 
