@@ -21,6 +21,7 @@
     <a href="https://www.hackerrank.com/ankushsgandhi">
     <img src="https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=Hackerrank&logoColor=white"/>
   </a>
+  
 </p>
 
 
@@ -115,6 +116,7 @@ Questions can be asked by raising an `Issue`.
 - [Bharat Sharma](https://github.com/heybharatt)
 - [Wali Ullah](https://github.com/SABERGLOW)
 - [Meenu Soni](https://github.com/heymeenu)
+- [Gargee Suresh](https://github.com/gargeesuresh)
 
 
 
