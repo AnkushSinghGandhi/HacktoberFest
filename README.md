@@ -119,6 +119,8 @@ Questions can be asked by raising an `Issue`.
 - [Meenu Soni](https://github.com/heymeenu)
 - [Amal P Anilkumar](https://github.com/Meth-Head)
 - [Gargee Suresh](https://github.com/gargeesuresh)
+- [lucky borana](https://github.com/luckyborana)
+
 
 
 
@@ -129,5 +131,3 @@ Questions can be asked by raising an `Issue`.
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
-
-- [lucky borana](https://github.com/luckyborana)
