@@ -117,6 +117,7 @@ Questions can be asked by raising an `Issue`.
 - [Bharat Sharma](https://github.com/heybharatt)
 - [Wali Ullah](https://github.com/SABERGLOW)
 - [Meenu Soni](https://github.com/heymeenu)
+- [Amal P Anilkumar](https://github.com/Meth-Head)
 - [Gargee Suresh](https://github.com/gargeesuresh)
 
 
