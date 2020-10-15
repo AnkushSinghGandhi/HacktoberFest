@@ -122,6 +122,8 @@ Questions can be asked by raising an `Issue`.
 - [lucky borana](https://github.com/luckyborana)
 - [Ayan Hazra](https://github.com/jesus7110)
 - [Andreas Karabetian](https://github.com/adreaskar)
+- [Syeda Reeha Quasar](https://github.com/syedareehaquasar)
+
 
 
 
