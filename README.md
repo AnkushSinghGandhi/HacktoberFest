@@ -120,6 +120,7 @@ Questions can be asked by raising an `Issue`.
 - [Amal P Anilkumar](https://github.com/Meth-Head)
 - [Gargee Suresh](https://github.com/gargeesuresh)
 - [lucky borana](https://github.com/luckyborana)
+- [Ayan Hazra](https://github.com/jesus7110)
 
 
 
