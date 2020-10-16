@@ -123,6 +123,8 @@ Questions can be asked by raising an `Issue`.
 - [Ayan Hazra](https://github.com/jesus7110)
 - [Andreas Karabetian](https://github.com/adreaskar)
 - [Syeda Reeha Quasar](https://github.com/syedareehaquasar)
+- [Danish Shaikh](https://github.com/SMD-1)
+
 
 
 
