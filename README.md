@@ -124,7 +124,6 @@ Questions can be asked by raising an `Issue`.
 - [Andreas Karabetian](https://github.com/adreaskar)
 - [Syeda Reeha Quasar](https://github.com/syedareehaquasar)
 - [Danish Shaikh](https://github.com/SMD-1)
-- [Dashminder Singh](https://github.com/Dashminder-Singh)
 
 
 
