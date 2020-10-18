@@ -125,7 +125,7 @@ Questions can be asked by raising an `Issue`.
 - [Syeda Reeha Quasar](https://github.com/syedareehaquasar)
 - [Danish Shaikh](https://github.com/SMD-1)
 - [Dashminder Singh](https://github.com/Dashminder-Singh)
-- [Punit Sakre] (https://github.com/punitsakre23)
+- [Punit Sakre](https://github.com/punitsakre23)
 
 
 
