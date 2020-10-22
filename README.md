@@ -127,7 +127,7 @@ Questions can be asked by raising an `Issue`.
 - [Dashminder Singh](https://github.com/Dashminder-Singh)
 - [Punit Sakre](https://github.com/punitsakre23)
 - [Kamal Soni](https://github.com/heykamal)
-
+- [Yogesh Gaur](https://github.com/imyogeshgaur)
 
 
 
