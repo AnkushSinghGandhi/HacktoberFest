@@ -126,8 +126,7 @@ Questions can be asked by raising an `Issue`.
 - [Danish Shaikh](https://github.com/SMD-1)
 - [Dashminder Singh](https://github.com/Dashminder-Singh)
 - [Punit Sakre](https://github.com/punitsakre23)
-
-
+- [Kamal Soni](https://github.com/heykamal)
 
 
 
