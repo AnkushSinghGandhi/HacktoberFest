@@ -132,7 +132,7 @@ Questions can be asked by raising an `Issue`.
 - [Rohit Kumar](https://github.com/rohitkumar2222)
 - [Kamal Saini](https://github.com/kamalsaini21)
 - [Binod Kumar](https://github.com/Binod0408)
-- [Dikshit_Kaushal](https://github.com/Binod0408)
+- [Binod Kumar](https://github.com/dikshitkaushal)
 
 
 #
