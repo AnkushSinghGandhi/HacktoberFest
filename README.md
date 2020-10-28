@@ -44,7 +44,7 @@ Questions can be asked by raising an `Issue`.
 ## How to clone repo and make changes locally
 
 ```
-  click on the clone button (green in colour). This gives you a copy of the project. Its now yours to play around with
+  click on the clone button (green in colour). This gives you a copy of the project. Its now yours to play around with.
 ```
 
 - Using git on your local machine. Do this to download the forked copy of this repo to your computer
@@ -132,7 +132,10 @@ Questions can be asked by raising an `Issue`.
 - [Rohit Kumar](https://github.com/rohitkumar2222)
 - [Kamal Saini](https://github.com/kamalsaini21)
 - [Binod Kumar](https://github.com/Binod0408)
-- [Binod Kumar](https://github.com/dikshitkaushal)
+- [Dikshit Kaushal](https://github.com/dikshitkaushal)
+- [Adarsh Rana](https://github.com/adarshrana205)
+- [Sumit Kumar Mohanta](https://github.com/SumitkumarMohanta)
+- [Sandeep Maurya](https://github.com/sandeep332001)
 
 
 #
