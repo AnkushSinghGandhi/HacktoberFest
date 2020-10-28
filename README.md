@@ -133,6 +133,7 @@ Questions can be asked by raising an `Issue`.
 - [Kamal Saini](https://github.com/kamalsaini21)
 - [Binod Kumar](https://github.com/Binod0408)
 - [Adarsh Rana](https://github.com/adarshrana205)
+- [Sumit Kumar Mohanta](https://github.com/SumitkumarMohanta)
 
 
 #
