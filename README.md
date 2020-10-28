@@ -132,6 +132,7 @@ Questions can be asked by raising an `Issue`.
 - [Rohit Kumar](https://github.com/rohitkumar2222)
 - [Kamal Saini](https://github.com/kamalsaini21)
 - [Binod Kumar](https://github.com/Binod0408)
+- [Dikshit Kaushal](https://github.com/dikshitkaushal)
 - [Adarsh Rana](https://github.com/adarshrana205)
 - [Sumit Kumar Mohanta](https://github.com/SumitkumarMohanta)
 - [Sandeep Maurya](https://github.com/sandeep332001)
