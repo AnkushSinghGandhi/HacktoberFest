@@ -44,7 +44,7 @@ Questions can be asked by raising an `Issue`.
 ## How to clone repo and make changes locally
 
 ```
-  click on the clone button (green in colour). This gives you a copy of the project. Its now yours to play around with
+  click on the clone button (green in colour). This gives you a copy of the project. Its now yours to play around with.
 ```
 
 - Using git on your local machine. Do this to download the forked copy of this repo to your computer
