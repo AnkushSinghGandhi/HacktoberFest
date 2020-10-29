@@ -137,6 +137,8 @@ Questions can be asked by raising an `Issue`.
 - [Sumit Kumar Mohanta](https://github.com/SumitkumarMohanta)
 - [Sandeep Maurya](https://github.com/sandeep332001)
 - [Neeraj Kumar](https://github.com/nerojaiswal)
+- [Sneha Yadav](https://github.com/iamhardcoder)
+- [Vedika sharma](https://github.com/vedika12)
 
 
 #
